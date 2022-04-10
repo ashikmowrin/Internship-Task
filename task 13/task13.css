@@ -1,0 +1,21 @@
+
+
+table
+{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th{
+    background-color: #3444aa;
+    color: white;
+}
+tr{
+    background-color: rgb(118, 102, 219);
+    color: black;
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid;
+    color: white;
+  }
