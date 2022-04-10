@@ -1,0 +1,48 @@
+*{
+    box-sizing:border-box;
+   
+}
+body
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #c46969;
+}
+
+header
+{
+    background-color: black;
+    font-size: large;
+    color:whitesmoke;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    width: 20%;
+    height: 600px; 
+    font-size: large;
+
+    background: rgb(55, 58, 58);
+    padding: 20px;
+  }
+
+  footer
+  {
+    clear: both;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    font-size: large;
+    float: bottom;
+    padding: 20px;
+  }
+
+  article
+  {
+      font-size: larger;
+      text-align: justify;
+
+  }
+  
+
